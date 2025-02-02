@@ -1,5 +1,9 @@
 This is test file 1
+<<<<<<< HEAD
 
 
 now modifying test file from main branch
 
+=======
+Modifying the test file from XYZ branch
+>>>>>>> 1fce69c15343d10d3911e22b7d6f3e8fd129c2f0
