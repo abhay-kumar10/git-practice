@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Modifying the test file from main branch
+=======
+This is test file 1 and changing all the context from xyz branch
+>>>>>>> XYZ
 
